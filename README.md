@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**lyandut/lyandut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +10,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+| [SmartFloorplan](https://github.com/lyandut/SmartVLSI) | [SmartMPW](https://github.com/lyandut/SmartMPW) |
+| :----------------------------------------------------: | :---------------------------------------------: |
+|           ![floorplan](assets/floorplan.gif)           |             ![mpw](assets/mpw.gif)              |
+
+
+
+
 
 <!--START_SECTION:waka-->
 ```text
@@ -22,3 +28,6 @@ Week: 21 February, 2021 - 28 February, 2021
 C++   30 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
+
+
+
