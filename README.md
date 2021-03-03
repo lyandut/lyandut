@@ -9,13 +9,18 @@
 
 
 
+### Maybe you'll be interested in...
+
 | [SmartFloorplan](https://github.com/lyandut/SmartVLSI) | [SmartMPW](https://github.com/lyandut/SmartMPW) | [GuillotineCut](https://github.com/zjl9959/GuillotineCut) |
 | :----------------------------------------------------: | :---------------------------------------------: | :-------------------------------------------------------: |
 |           ![floorplan](assets/floorplan.gif)           |             ![mpw](assets/mpw.gif)              |        ![guillotinecut](assets/guillotinecut.png)         |
 
 
 
+### Yan Li's Waka Time
+
 <!--START_SECTION:waka-->
+
 ```text
 Week: 23 February, 2021 - 02 March, 2021
 
@@ -26,7 +31,7 @@ Other   5 mins          █▓░░░░░░░░░░░░░░░░�
 
 
 
-[![Yan Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyandut&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Yan Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyandut&hide=contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
