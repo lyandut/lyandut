@@ -17,9 +17,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 February, 2021 - 01 March, 2021
+Week: 23 February, 2021 - 02 March, 2021
 
-C++     1 hr 20 mins    █████████████████████████   99.94 % 
+C++     1 hr 21 mins    ███████████████████████░░   92.49 % 
+Other   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 <!--END_SECTION:waka-->
 
