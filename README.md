@@ -21,9 +21,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 March, 2021 - 18 March, 2021
+Week: 12 March, 2021 - 19 March, 2021
 
-C++     31 mins         █████████████████████████   99.42 % 
+C++   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
