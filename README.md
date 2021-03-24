@@ -21,7 +21,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 16 March, 2021 - 23 March, 2021
+
+C++     5 hrs 22 mins   ██████████████████████░░░   88.60 % 
+C       26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Text    9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Other   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
 
