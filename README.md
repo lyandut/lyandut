@@ -21,9 +21,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 April, 2021 - 07 May, 2021
+Week: 01 May, 2021 - 08 May, 2021
 
-C++   25 mins         █████████████████████████   100.00 % 
+C++   29 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
