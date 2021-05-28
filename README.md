@@ -21,9 +21,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 May, 2021 - 26 May, 2021
+Week: 20 May, 2021 - 27 May, 2021
 
-C++   2 mins          █████████████████████████   100.00 % 
+C++      2 mins          ███████████████████████▓░   94.37 % 
 ```
 <!--END_SECTION:waka-->
 
