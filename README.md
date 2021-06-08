@@ -21,10 +21,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 May, 2021 - 06 June, 2021
+Week: 31 May, 2021 - 07 June, 2021
 
-C++     20 mins         █████████████░░░░░░░░░░░░   51.98 % 
-CMake   18 mins         ████████████░░░░░░░░░░░░░   48.02 % 
+Python   17 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
