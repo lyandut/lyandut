@@ -21,9 +21,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 May, 2021 - 07 June, 2021
+Week: 01 June, 2021 - 08 June, 2021
 
-Python   17 mins         █████████████████████████   100.00 % 
+Python   6 hrs 37 mins   ████████████████████████▓   99.10 % 
+Text     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 <!--END_SECTION:waka-->
 
