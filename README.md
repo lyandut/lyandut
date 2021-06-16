@@ -21,11 +21,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 June, 2021 - 14 June, 2021
+Week: 08 June, 2021 - 15 June, 2021
 
-Python       8 hrs 10 mins   ████████████████████████▒   97.30 % 
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Python       1 hr 50 mins    ███████████████████████░░   91.68 % 
+Git Config   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 ```
 <!--END_SECTION:waka-->
 
