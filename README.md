@@ -21,7 +21,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 14 June, 2021 - 21 June, 2021
+
+Python       2 hrs 55 mins   ███████████████░░░░░░░░░░   60.08 % 
+Other        56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 % 
+JavaScript   45 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+JSON         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 <!--END_SECTION:waka-->
 
