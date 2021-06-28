@@ -21,7 +21,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 June, 2021 - 26 June, 2021
+Week: 21 June, 2021 - 27 June, 2021
 
 Python       16 hrs 51 mins  ██████████████████░░░░░░░   71.58 % 
 Other        3 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
