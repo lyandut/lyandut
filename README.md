@@ -21,13 +21,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2021 - 08 August, 2021
+Week: 03 August, 2021 - 09 August, 2021
 
-Python       9 hrs 48 mins   ███████████████▓░░░░░░░░░   63.21 % 
-JSON         1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-JavaScript   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Other        1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Text         1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Python       12 hrs 24 mins  █████████████████▓░░░░░░░   71.06 % 
+JSON         1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Text         1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+JavaScript   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Other        56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 <!--END_SECTION:waka-->
 
