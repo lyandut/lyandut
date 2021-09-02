@@ -21,11 +21,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 August, 2021 - 31 August, 2021
+Week: 26 August, 2021 - 01 September, 2021
 
-Python   2 hrs 53 mins   ███████████████████▓░░░░░   78.64 % 
-Text     29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Other    17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Python   53 mins         ████████████████░░░░░░░░░   64.27 % 
+Text     29 mins         ████████▓░░░░░░░░░░░░░░░░   34.78 % 
 ```
 <!--END_SECTION:waka-->
 
