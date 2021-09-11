@@ -21,9 +21,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2021 - 09 September, 2021
+Week: 04 September, 2021 - 10 September, 2021
 
-
+Python     1 hr 7 mins     ██████████████████▓░░░░░░   74.25 % 
+Text       8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+C++        5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+CMake      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 ```
 <!--END_SECTION:waka-->
 
