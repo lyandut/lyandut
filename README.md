@@ -21,7 +21,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 October, 2021 - 08 October, 2021
+
+C++     1 hr 13 mins    ████████████████████░░░░░   80.62 % 
+XML     9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+C       8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 ```
 <!--END_SECTION:waka-->
 
