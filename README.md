@@ -21,7 +21,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2021 - 10 October, 2021
+Week: 05 October, 2021 - 11 October, 2021
 
 C++     1 hr 13 mins    ████████████████████░░░░░   80.62 % 
 XML     9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
