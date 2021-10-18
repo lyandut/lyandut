@@ -20,7 +20,6 @@
 ### Yan Li's Waka Time
 
 <!--START_SECTION:waka-->
-
 ```text
 Week: 11 October, 2021 - 17 October, 2021
 
