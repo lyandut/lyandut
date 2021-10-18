@@ -22,10 +22,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Week: 01 June, 2021 - 08 June, 2021
+Week: 11 October, 2021 - 17 October, 2021
 
-Python   6 hrs 37 mins   ████████████████████████▓   99.10 % 
-Text     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+C++   59 mins         █████████████████████████   99.77 % 
 ```
 <!--END_SECTION:waka-->
 
