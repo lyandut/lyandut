@@ -21,7 +21,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2021 - 06 November, 2021
+Week: 01 November, 2021 - 07 November, 2021
 
 C++     6 hrs 35 mins   ████████████████████████▓   99.22 % 
 Other   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
