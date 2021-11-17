@@ -21,10 +21,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 November, 2021 - 15 November, 2021
+Week: 10 November, 2021 - 16 November, 2021
 
-C++     11 hrs          ████████████████████████▓   98.87 % 
-Other   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+C++     15 hrs 57 mins  ████████████████████████▓   99.06 % 
+Other   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 <!--END_SECTION:waka-->
 
