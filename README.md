@@ -21,10 +21,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 November, 2021 - 16 November, 2021
+Week: 11 November, 2021 - 17 November, 2021
 
-C++     15 hrs 57 mins  ████████████████████████▓   99.06 % 
-Other   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+C++        16 hrs 44 mins  ███████████████████████▒░   93.69 % 
+Markdown   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+JSON       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+CMake      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Other      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
 
