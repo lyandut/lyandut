@@ -21,7 +21,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2021 - 07 December, 2021
+Week: 02 December, 2021 - 08 December, 2021
 
 Go               4 hrs 21 mins   █████████████████████▒░░░   85.54 % 
 Markdown         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
