@@ -21,13 +21,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 December, 2021 - 11 December, 2021
+Week: 06 December, 2021 - 12 December, 2021
 
-Go               7 hrs 14 mins   █████████████████████▓░░░   87.08 % 
-Markdown         44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-C++              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-ObjectiveC       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Go               4 hrs 43 mins   ████████████████████▓░░░░   82.09 % 
+Markdown         46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+C++              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 <!--END_SECTION:waka-->
 
