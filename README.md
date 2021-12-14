@@ -21,11 +21,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2021 - 12 December, 2021
+Week: 07 December, 2021 - 13 December, 2021
 
-Go               4 hrs 43 mins   ████████████████████▓░░░░   82.09 % 
-Markdown         46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-C++              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Go               4 hrs 43 mins   █████████████████████░░░░   83.86 % 
+Markdown         46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+C++              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 <!--END_SECTION:waka-->
 
