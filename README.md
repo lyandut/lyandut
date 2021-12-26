@@ -21,12 +21,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
-Go           6 hrs 4 mins    ██████████████▒░░░░░░░░░░   56.95 % 
-C++          2 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-textmate     1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Markdown     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Go           6 hrs 4 mins    ██████████████▓░░░░░░░░░░   58.59 % 
+C++          2 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+textmate     1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Markdown     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 <!--END_SECTION:waka-->
 
