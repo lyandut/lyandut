@@ -21,11 +21,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
-Go               2 hrs 33 mins   ████████████████████░░░░░   79.34 % 
-Markdown         25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-GitIgnore file   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Go               44 mins         ███████████████████████▒░   93.39 % 
+Markdown         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 <!--END_SECTION:waka-->
 
