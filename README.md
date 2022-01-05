@@ -21,10 +21,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
+Week: 29 December, 2021 - 04 January, 2022
 
-Go               44 mins         ███████████████████████▒░   93.39 % 
-Markdown         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Go               36 mins         ███████████████████▒░░░░░   77.81 % 
+Markdown         9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 ```
 <!--END_SECTION:waka-->
 
