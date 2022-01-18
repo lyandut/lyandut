@@ -21,10 +21,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
-Go         5 hrs 47 mins   ███████████████████████▒░   93.87 % 
-Markdown   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Go         4 hrs 29 mins   ████████████████████████░   95.81 % 
+Markdown   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 <!--END_SECTION:waka-->
 
