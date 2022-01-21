@@ -21,10 +21,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
-
-Go         1 hr 21 mins    ███████████████████████░░   92.55 % 
-Markdown   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
