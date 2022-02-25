@@ -21,7 +21,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+From: 17 February, 2022 - To: 24 February, 2022
+
+C++   11 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
