@@ -20,11 +20,13 @@
 ### Yan Li's Waka Time
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-C++   23 mins         █████████████████████████   100.00 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+C++   23 mins         █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 
