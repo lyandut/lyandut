@@ -22,7 +22,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 06 April 2022 - To: 13 April 2022
+
+C++              0 secs          █████████████████████████   100.00 %
+CMakeLists.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
