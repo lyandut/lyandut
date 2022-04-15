@@ -22,10 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2022 - To: 13 April 2022
+From: 07 April 2022 - To: 14 April 2022
 
-C++              0 secs          █████████████████████████   100.00 %
-CMakeLists.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++              1 hr 32 mins    ███████████████████████▓░   95.11 %
+Go               2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Other            2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
