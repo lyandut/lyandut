@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2022 - To: 12 May 2022
+From: 06 May 2022 - To: 13 May 2022
 
 C++              1 hr 47 mins    █████████████████▓░░░░░░░   70.66 %
 Markdown         25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
