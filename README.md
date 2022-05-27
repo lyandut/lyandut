@@ -22,7 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 19 May 2022 - To: 26 May 2022
+
+textmate   36 mins         █████████████████████░░░░   83.64 %
+Go         6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
