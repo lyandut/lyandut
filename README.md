@@ -22,11 +22,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 May 2022 - To: 01 June 2022
+From: 26 May 2022 - To: 02 June 2022
 
-textmate   36 mins         █████████████████████░░░░   83.64 %
-Go         6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+textmate   2 mins          ████████████████████████▓   98.52 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
