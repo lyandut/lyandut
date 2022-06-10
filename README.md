@@ -22,10 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
-
-textmate   2 mins          ████████████████████████▓   98.52 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
