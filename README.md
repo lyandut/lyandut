@@ -22,9 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
-
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
