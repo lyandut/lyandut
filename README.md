@@ -22,10 +22,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 June 2022 - To: 26 June 2022
+From: 20 June 2022 - To: 27 June 2022
 
-C++   7 mins          █████████████████████░░░░   84.00 %
-Go    1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+C++   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
