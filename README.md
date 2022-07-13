@@ -22,10 +22,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 July 2022 - To: 11 July 2022
+From: 05 July 2022 - To: 12 July 2022
 
-textmate   1 hr 31 mins    ███████████████████▓░░░░░   78.51 %
-Go         24 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
+textmate   1 hr 7 mins     ██████████████████▒░░░░░░   73.18 %
+Go         24 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
 ```
 
 <!--END_SECTION:waka-->
