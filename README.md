@@ -22,7 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 18 July 2022 - To: 25 July 2022
+
+Go         41 mins         █████████████████████░░░░   84.56 %
+Markdown   7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
+go.mod     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
