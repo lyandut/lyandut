@@ -22,10 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 August 2022 - To: 09 August 2022
-
-Markdown   5 mins          █████████████████████▒░░░   84.69 %
-Go         0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
