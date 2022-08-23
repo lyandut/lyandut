@@ -22,7 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 15 August 2022 - To: 22 August 2022
+
+Go           2 hrs 22 mins   ██████████████████████▓░░   90.96 %
+Markdown     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+SQL          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
