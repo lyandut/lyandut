@@ -22,14 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2022 - To: 28 September 2022
+From: 22 September 2022 - To: 29 September 2022
 
-Go               32 hrs 55 mins  ████████████████████████▒   96.70 %
-Text             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-JSON             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Markdown         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Go               35 hrs 58 mins  ████████████████████████▒   97.80 %
+Text             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+JSON             11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Shell Script     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
