@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 09 December 2022
+From: 03 December 2022 - To: 10 December 2022
 
 Go       4 hrs 37 mins   ███████████████████████▒░   93.41 %
 SQL      19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
