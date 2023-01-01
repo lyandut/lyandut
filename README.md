@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 December 2022 - To: 30 December 2022
+From: 24 December 2022 - To: 31 December 2022
 
 Go           22 hrs 33 mins  ███████████████████████░░   92.55 %
 Text         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
