@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 January 2023 - To: 13 January 2023
+From: 07 January 2023 - To: 14 January 2023
 
 Go               24 hrs 38 mins  ████████████████████████░   95.59 %
 Thrift           34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
