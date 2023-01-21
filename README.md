@@ -22,12 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
-
-Go       2 hrs 46 mins   █████████████████████████   99.82 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Thrift   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
