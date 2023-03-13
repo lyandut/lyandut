@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 March 2023 - To: 11 March 2023
+From: 05 March 2023 - To: 12 March 2023
 
 Go             29 hrs 56 mins  ███████████████████████░░   91.77 %
 YAML           1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
