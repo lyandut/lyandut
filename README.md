@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2023 - To: 01 April 2023
+From: 26 March 2023 - To: 02 April 2023
 
 Go           18 hrs 20 mins  ███████████████████████░░   92.16 %
 Thrift       35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
