@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2023 - To: 13 May 2023
+From: 07 May 2023 - To: 14 May 2023
 
 Go               13 hrs 17 mins  █████████████████████▒░░░   84.75 %
 Bash             45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
