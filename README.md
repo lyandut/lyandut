@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
 Go             20 hrs 23 mins  ███████████████████████▓░   95.04 %
 YAML           36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
