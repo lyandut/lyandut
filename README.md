@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2023 - To: 17 June 2023
+From: 11 June 2023 - To: 18 June 2023
 
 Go               17 hrs 45 mins  █████████████████████░░░░   84.21 %
 Thrift           1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
