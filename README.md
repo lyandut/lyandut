@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-Go               24 hrs 11 mins  ████████████████████████░   95.77 %
-Thrift           18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-SQL              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-go.mod           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-GitIgnore file   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Go               25 hrs 57 mins  ████████████████████████▒   97.10 %
+SQL              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Thrift           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+GitIgnore file   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+YAML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
