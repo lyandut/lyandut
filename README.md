@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2023 - To: 09 October 2023
+From: 03 October 2023 - To: 10 October 2023
 
-Go             6 hrs 22 mins   ████████████████████████░   96.31 %
-YAML           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Thrift         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-go.mod         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Go             9 hrs 16 mins   ████████████████████████▒   97.06 %
+YAML           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Thrift         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Markdown       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
