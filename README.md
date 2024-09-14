@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-Go         12 hrs 38 mins  █████████████████████████   99.63 %
+Go         12 hrs 13 mins  ████████████████████████▒   97.47 %
+YAML       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 Thrift     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
