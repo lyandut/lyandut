@@ -22,13 +22,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Go         2 hrs 30 mins   ██████████████████████░░░   88.08 %
-YAML       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-go.mod     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-textmate   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Go   51 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
