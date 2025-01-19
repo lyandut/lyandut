@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
 Go         5 hrs 10 mins   ███████████████████████░░   92.56 %
 YAML       18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
